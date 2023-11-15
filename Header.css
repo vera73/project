@@ -1,0 +1,20 @@
+.header{
+    max-width: 94px;
+    border-bottom: 1px solid #828282;
+    margin: 0 auto;
+}
+.header_list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.header_item a{
+    text-transform: none;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+}
